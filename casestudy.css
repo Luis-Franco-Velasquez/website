@@ -177,19 +177,6 @@ div.jumbotron {
     transform: translateY(0);
 }
 
-.modal-content {
-    background-color: #343a40;
-    color: black;
-}
-
-.modal-header {
-    border-bottom: 1px solid #343a40;
-}
-
-.modal-footer {
-    border-top: 1px solid #343a40;
-}
-
 .hidden {
     opacity: 1;
     filter: blur(5px);
